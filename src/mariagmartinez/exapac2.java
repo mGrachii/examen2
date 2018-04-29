@@ -25,6 +25,7 @@ public class exapac2 {
        double horas[] = new double[100];
        int cont = 0;
        int k = 0;
+        JOptionPane.showMessageDialog(null,"Si logre ver el proyecto en GitHub!!");
       do {
         
         opt= JOptionPane.showInputDialog("Digite su opcion: \n1.Agregar Empleados\n2.Calcular Planilla\n3.Salir");
